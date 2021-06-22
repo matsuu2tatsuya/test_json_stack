@@ -1,2 +1,2 @@
 # test_json_stack
-# test_json_stack
+ここにはAPI接続のためのテストjsonファイルを置いてあります。
