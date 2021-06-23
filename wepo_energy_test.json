@@ -1,157 +1,157 @@
 {
-    "type":"walking",
+    "type":"energy",
     "result":[
         {
             "date":"2021年02月07日00時00分",
-            "feeling":"perfect",
-            "count":2631,
-            "distance_meter":1842,
-            "time_hour":0.4,
-            "speed_kilometer":4.6
+            "feeling":"lazy",
+            "count":1553,
+            "intake_energy":1553,
+            "energy_balance":-1582,
+            "burn_energy":3135
         },
         {
             "date":"2021年02月08日00時00分",
             "feeling":"happy",
-            "count":2292,
-            "distance_meter":1604,
-            "time_hour":0.4,
-            "speed_kilometer":4.0
+            "count":3001,
+            "intake_energy":3001,
+            "energy_balance":1452,
+            "burn_energy":1549
         },
         {
             "date":"2021年02月9日00時00分",
             "feeling":"happy",
-            "count":3299,
-            "distance_meter":2309,
-            "time_hour":0.5,
-            "speed_kilometer":4.6
+            "count":3270,
+            "intake_energy":3270,
+            "energy_balance":418,
+            "burn_energy":2852
         },
         {
             "date":"2021年02月10日00時00分",
-            "feeling":"perfect",
-            "count":2789,
-            "distance_meter":1952,
-            "time_hour":0.4,
-            "speed_kilometer":4.9
+            "feeling":"happy",
+            "count":3439,
+            "intake_energy":3439,
+            "energy_balance":-475,
+            "burn_energy":3914
         },
         {
             "date":"2021年02月11日00時00分",
-            "feeling":"slump",
-            "count":1447,
-            "distance_meter":1013,
-            "time_hour":0.3,
-            "speed_kilometer":3.4
+            "feeling":"happy",
+            "count":1980,
+            "intake_energy":1980,
+            "energy_balance":-254,
+            "burn_energy":2234
         },
         {
             "date":"2021年02月12日00時00分",
-            "feeling":"slump",
-            "count":1474,
-            "distance_meter":1032,
-            "time_hour":0.3,
-            "speed_kilometer":3.4
+            "feeling":"perfect",
+            "count":2916,
+            "intake_energy":2916,
+            "energy_balance":206,
+            "burn_energy":2710
         },
         {
             "date":"2021年02月13日00時00分",
             "feeling":"happy",
-            "count":2385,
-            "distance_meter":1670,
-            "time_hour":0.4,
-            "speed_kilometer":4.2
+            "count":2447,
+            "intake_energy":2447,
+            "energy_balance":603,
+            "burn_energy":1844
         },
         {
             "date":"2021年02月14日00時00分",
             "feeling":"happy",
-            "count":2152,
-            "distance_meter":1506,
-            "time_hour":0.4,
-            "speed_kilometer":3.8
+            "count":2232,
+            "intake_energy":2232,
+            "energy_balance":-2269,
+            "burn_energy":4501
         },
         {
             "date":"2021年02月15日00時00分",
-            "feeling":"happy",
-            "count":2406,
-            "distance_meter":1684,
-            "time_hour":0.4,
-            "speed_kilometer":4.2
+            "feeling":"lazy",
+            "count":3827,
+            "intake_energy":3827,
+            "energy_balance":280,
+            "burn_energy":3547
         },
         {
             "date":"2021年02月16日00時00分",
             "feeling":"happy",
-            "count":2323,
-            "distance_meter":1626,
-            "time_hour":0.4,
-            "speed_kilometer":4.1
+            "count":2329,
+            "intake_energy":2329,
+            "energy_balance":324,
+            "burn_energy":2005
         },
         {
             "date":"2021年02月17日00時00分",
             "feeling":"lazy",
-            "count":1535,
-            "distance_meter":1074,
-            "time_hour":0.3,
-            "speed_kilometer":3.6
+            "count":3533,
+            "intake_energy":3533,
+            "energy_balance":1600,
+            "burn_energy":1933
         },
         {
             "date":"2021年02月18日00時00分",
             "feeling":"slump",
-            "count":1071,
-            "distance_meter":750,
-            "time_hour":0.2,
-            "speed_kilometer":3.8
+            "count":630,
+            "intake_energy":630,
+            "energy_balance":-3051,
+            "burn_energy":3681
         },
         {
             "date":"2021年02月19日00時00分",
-            "feeling":"happy",
-            "count":3063,
-            "distance_meter":2144,
-            "time_hour":0.5,
-            "speed_kilometer":4.3
+            "feeling":"perfect",
+            "count":2817,
+            "intake_energy":2817,
+            "energy_balance":563,
+            "burn_energy":2254
         },
         {
             "date":"2021年02月20日00時00分",
-            "feeling":"lazy",
-            "count":3651,
-            "distance_meter":2556,
-            "time_hour":0.7,
-            "speed_kilometer":3.7
+            "feeling":"happy",
+            "count":3238,
+            "intake_energy":3238,
+            "energy_balance":406,
+            "burn_energy":2832
         },
         {
             "date":"2021年02月21日00時00分",
-            "feeling":"perfect",
-            "count":2828,
-            "distance_meter":1980,
-            "time_hour":0.4,
-            "speed_kilometer":5.0
+            "feeling":"happy",
+            "count":2486,
+            "intake_energy":2486,
+            "energy_balance":-1453,
+            "burn_energy":3939
         },
         {
             "date":"2021年02月22日00時00分",
-            "feeling":"lazy",
-            "count":3556,
-            "distance_meter":2489,
-            "time_hour":0.6,
-            "speed_kilometer":4.1
+            "feeling":"perfect",
+            "count":2837,
+            "intake_energy":2837,
+            "energy_balance":-1366,
+            "burn_energy":4203
         },
         {
             "date":"2021年02月23日00時00分",
-            "feeling":"perfect",
-            "count":2640,
-            "distance_meter":1848,
-            "time_hour":0.4,
-            "speed_kilometer":4.6
+            "feeling":"slump",
+            "count":937,
+            "intake_energy":937,
+            "energy_balance":-2625,
+            "burn_energy":3562
         },
         {
             "date":"2021年02月24日00時00分",
             "feeling":"lazy",
-            "count":3674,
-            "distance_meter":2572,
-            "time_hour":0.7,
-            "speed_kilometer":3.7
+            "count":3896,
+            "intake_energy":3896,
+            "energy_balance":886,
+            "burn_energy":3010
         },
         {
             "date":"2021年02月25日00時00分",
             "feeling":"lazy",
-            "count":1791,
-            "distance_meter":1254,
-            "time_hour":0.3,
-            "speed_kilometer":4.2
+            "count":3952,
+            "intake_energy":3952,
+            "energy_balance":-1475,
+            "burn_energy":5427
         }
     ]
 }
