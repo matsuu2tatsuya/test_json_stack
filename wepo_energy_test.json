@@ -1,5 +1,6 @@
 {
     "type":"energy",
+    "user_id": "001",
     "result":[
         {
             "date":"2021年02月07日00時00分",
