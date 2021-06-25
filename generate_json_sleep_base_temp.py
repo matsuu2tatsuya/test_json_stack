@@ -34,7 +34,7 @@ if __name__ == '__main__':
         data = {
             "date": f"2021年02月{str(i)}日00時00分",
             "feeling": feeling_type,
-            "sleep_time": count,
+            "count": count,
             "base_temperature": base_temp,
         }
         json_data['result'].append(data)
