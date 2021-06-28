@@ -32,7 +32,7 @@ if __name__ == '__main__':
         elif base_temp > 37.5:
             feeling_type = "slump"
         data = {
-            "date": f"2021年02月{str(i)}日00時00分",
+            "date": f"2021-02-{str(i)}",
             "feeling": feeling_type,
             "count": count,
             "base_temperature": base_temp,

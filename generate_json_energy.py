@@ -32,7 +32,7 @@ if __name__ == '__main__':
             burn_energy = round(int(w_count[1]))
             energy_balance = count - burn_energy
         data = {
-            "date": f"2021年02月{str(i)}日00時00分",
+            "date": f"2021-02-{str(i)}",
             "feeling": feeling_type,
             "count": count,
             "intake_energy": count,

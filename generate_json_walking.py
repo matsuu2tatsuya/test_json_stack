@@ -37,7 +37,7 @@ if __name__ == '__main__':
             time_hour = round((count * 0.7) / 3600, 1)
             speed_kilometer = round(distance_meter / time_hour / 1000, 1)
         data = {
-            "date": f"2021年02月{str(i)}日00時00分",
+            "date": f"2021-02-{str(i)}",
             "feeling": feeling_type,
             "count": count,
             "distance_meter": distance_meter,
