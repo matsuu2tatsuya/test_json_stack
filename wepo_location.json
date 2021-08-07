@@ -1,0 +1,24 @@
+{
+  "type":"wepo_location",
+  "user_id":"001",
+  "result":[
+    {
+      "lat": 35.642749539709676,
+      "lng": 139.66852578979618,
+      "name": "MOON FACTORY COFFEE",
+      "type": "Cafe"
+    },
+    {
+      "lat": 35.64440834323759,
+      "lng": 139.67010584040614,
+      "name": "無印良品 三軒茶屋",
+      "type": "General Store"
+    },
+    {
+      "lat": 35.641149342620025,
+      "lng": 139.67382223615343,
+      "name": "ROOM",
+      "type": "Fashion"
+    }
+  ]
+}
