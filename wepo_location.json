@@ -6,19 +6,25 @@
       "lat": 35.642749539709676,
       "lng": 139.66852578979618,
       "name": "MOON FACTORY COFFEE",
-      "type": "Cafe"
+      "type": "Cafe",
+      "image": "https://pakutaso.cdn.rabify.me/shared/img/thumb/ogasuta458A7782.jpg?d=1420",
+      "stayHours": 4
     },
     {
       "lat": 35.64440834323759,
       "lng": 139.67010584040614,
       "name": "無印良品 三軒茶屋",
-      "type": "General Store"
+      "type": "General Store",
+      "image": "https://www.muji.com/img/feature/flagship/lyon-partdieu/main.jpg",
+      "stayHours": 0.1
     },
     {
       "lat": 35.641149342620025,
       "lng": 139.67382223615343,
       "name": "ROOM",
-      "type": "Fashion"
+      "type": "Fashion",
+      "image": "https://i.pinimg.com/originals/eb/20/11/eb20119db74a47754873bb04b2875e58.jpg",
+      "stayHours": 0.5
     }
   ]
 }
